@@ -1,0 +1,46 @@
+<dl class="faq">
+  <dt>
+    <button aria-expanded="false" aria-controls="faq1_desc">
+      Where do I go to find info on the Olympics?
+    </button>
+  </dt>
+  <dd>
+    <p id="faq1_desc" class="desc">
+      You are here!  This site has it all!
+    </p>
+  </dd>
+  <dt>
+    <button aria-expanded="false" aria-controls="faq2_desc">
+      How do I use the virtual Olympic Village?
+    </button>
+  </dt>
+  <dd>
+    <p id="faq2_desc" class="desc">
+      You just click and use your mouse!
+    </p>
+  </dd>
+  <dt>
+    <button aria-expanded="false" aria-controls="faq3_desc">
+      Does this site cost anything?
+    </button>
+  </dt>
+  <dd>
+    <p id="faq3_desc" class="desc">
+      No! its free so enjoy it
+      <q>
+        
+      
+      All here!
+    </p>
+  </dd>
+  <dt>
+    <button aria-expanded="false" aria-controls="faq4_desc">
+      Do all users of this site have to read in English?
+    </button>
+  </dt>
+  <dd>
+    <p id="faq4_desc" class="desc">
+      No we use Google Translate!
+    </p>
+  </dd>
+</dl>
